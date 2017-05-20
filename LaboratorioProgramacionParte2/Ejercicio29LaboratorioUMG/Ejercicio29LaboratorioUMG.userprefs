@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{71834060-5478-46C4-B320-BDE78D388F2D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio29LaboratorioUMG/Program.cs">
+    <Files>
+      <File FileName="Ejercicio29LaboratorioUMG/Program.cs" Line="5" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ejercicio29LaboratorioUMG PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
